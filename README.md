@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CSEcoolgamer
-- 👀 I’m interested in ... Frontend wevelopment 
+- 👀 I’m interested in ... Frontend development 
 - 🌱 I’m currently learning ... ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
