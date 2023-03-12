@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CSEcoolgamer
-- 👀 I’m interested in ... python ,c++ and other languages. 
-- 🌱 I’m currently learning ... c++
+- 👀 I’m interested in ... Frontend wevelopment 
+- 🌱 I’m currently learning ... ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
