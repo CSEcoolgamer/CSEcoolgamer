@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CSEcoolgamer
+- 👋 Hi, I’m SACHIN NIRATE
 - 👀 I’m interested in ... Frontend development 
 - 🌱 I’m currently learning ... ReactJS
 - 💞️ I’m looking to collaborate on ...
